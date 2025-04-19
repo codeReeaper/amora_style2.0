@@ -1,4 +1,16 @@
-#chamada-final {
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/*#chamada-final {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: x-large;
+}*/
+
+span {
+    color: #8CDBA2;
+    font-weight: 600;
+}
+
+span2 {
+    color: #ae4876;
+    font-weight: 600;
 }
